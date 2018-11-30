@@ -1,0 +1,14 @@
+
+body{
+    background-color: powderblue;
+    font: amienne;
+}
+h1{
+    color: blue;
+}
+
+img {
+width: 220px;
+border-radius: 50%;
+border: dashed 20px black;
+}
