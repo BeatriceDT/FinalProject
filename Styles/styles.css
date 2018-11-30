@@ -1,0 +1,45 @@
+body{
+  background-color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 2px black;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float:left;
+  width: 10%;
+  text-align: center;
+  border-bottom: 1px black;
+  display: block;
+  padding: 10px 12px;
+  border-right: 1px solid #bbb;
+  background-color: orange;
+}
+.EE{
+  float: left;
+  width: 25%;
+  background-color: yellow;
+  text-align: center;
+}
+.HF{
+  float: left;
+  width: 25%;
+  background-color: yellow;
+  text-align: center;
+}
+.CMU{
+  float: left;
+  width: 25%;
+  background-color: yellow;
+  text-align: center;
+}
+.F{
+  float: left;
+  width: 25%;
+  background-color: yellow;
+  text-align: center;
+}
